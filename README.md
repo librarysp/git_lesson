@@ -1,4 +1,6 @@
-# My first it repo
+# My first git repo
 
-Silvia Polla
+Silvia Polla, 2022
+
+My very first awesome repo. 
 
